@@ -79,7 +79,7 @@ const AdminProductCard = ({
       </button>
 
       <button 
-        className="p-1.5 bg-red-500 hover:bg-red-700 rounded-full text-white cursor-pointer"
+        className="p-1.5 bg-red-500 hover:bg-red-800 rounded-full text-white cursor-pointer"
         onClick={handleDelete}
       >
         <RiDeleteBinFill size={16} />
